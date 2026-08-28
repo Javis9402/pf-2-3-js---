@@ -95,3 +95,8 @@ Puedes ejecutar los test antes de empezar tu programa en ese caso veras un mensa
 
 Si ya terminaste tu programa y todo esta bien, veras un mensaje como este en tu terminal: 
 ![alt text](image-1.png)
+
+Si faltan depenendencias
+```bash
+npm install -d vitest
+``` 
